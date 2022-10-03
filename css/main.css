@@ -869,6 +869,9 @@ svg {
 }
 
 .modal__close-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: absolute;
   top: 8px;
   right: 8px;
