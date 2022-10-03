@@ -1,0 +1,24 @@
+body {
+  font-family: $primary-font;
+  letter-spacing: 0.03em;
+
+  color: $primary-text-color;
+  background-color: $primary-bgc;
+}
+
+.container {
+  margin: 0 auto;
+
+  max-width: 1200px;
+  width: 100%;
+  padding: 0 15px;
+}
+
+.title {
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: $primary-title-color;
+}
